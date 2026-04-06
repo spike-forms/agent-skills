@@ -5,7 +5,7 @@ AI agent skills for integrating with [Spike Forms](https://spike.ac) — a form 
 ## Install
 
 ```bash
-npx skills add saeedmsdi/spike-agent-skills
+npx skills add spike-forms/agent-skills
 ```
 
 Or via npm:
